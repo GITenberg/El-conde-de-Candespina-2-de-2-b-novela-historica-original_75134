@@ -1,0 +1,26 @@
+_repo: El-conde-de-Candespina-2-de-2-b-novela-historica-original_75134
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Escosura, Patricio de la
+    gutenberg_agent_id: '57851'
+    url: http://www.gutenberg.org/2009/agents/57851
+description: ''
+gutenberg_issued: '2025-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75134'
+language: es
+pgterms:marc904: https://archive.org/details/elcondedecandesp02esco
+pgterms:marc905: 20241218045904escosura
+pgterms:marc906: '1832'
+production_note: Ramón Pajares Box. (This file was produced from images generously
+  made available by The Internet Archive / Canadian Libraries.)
+publication_note: '  $aMadrid :$bImprenta, calle del Amor de Dios, n.º 14, $c1832.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'El conde de Candespina (2 de 2) : $b novela histórica original'
+url: http://www.gutenberg.org/ebooks/75134
